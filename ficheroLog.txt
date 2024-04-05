@@ -1,0 +1,9 @@
+Usuario creado correctamente
+El cliente carlos haro infanteha sido validado correctamente.
+DNI: 1234 Nombre Completo: carlos haro infante Estado de validación: true
+CREDENCIALES CORRECTAS
+INICIO DE SESIÓN CORRECTO
+DNI: 1234 Nombre Completo: carlos haro infante Estado de validación: true
+Ningún cliente coincide con el dni adjunto
+DNI: 1234 Nombre Completo: carlos haro infante Estado de validación: true
+El cliente con nombrecarlos haro infanteEl cliente con dni 1234 se elimina
